@@ -19,7 +19,6 @@ const Button = (props: ButtonProps) => {
     children,
     onClick,
     isSelected,
-    disabled,
     width = "120px",
     count,
     incrementCounter,
